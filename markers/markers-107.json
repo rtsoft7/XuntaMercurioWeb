@@ -1,0 +1,86 @@
+[
+  {
+    "ID": 1,
+    "name": "AE-01",
+    "type": "aero",
+    "latitude": 43.05276089,
+    "longitude": -9.01945024,
+    "notes": "PE Monte Tourado",
+    "status": "",
+    "date_start": "",
+    "date_end": "",
+    "photos": ""
+  },
+  {
+    "ID": 2,
+    "name": "AE-02",
+    "type": "aero",
+    "latitude": 43.05005963,
+    "longitude": -9.01797595,
+    "notes": "PE Monte Tourado",
+    "status": "",
+    "date_start": "",
+    "date_end": "",
+    "photos": ""
+  },
+  {
+    "ID": 3,
+    "name": "AE-03",
+    "type": "aero",
+    "latitude": 43.04681783,
+    "longitude": -9.01795045,
+    "notes": "PE Monte Tourado",
+    "status": "",
+    "date_start": "",
+    "date_end": "",
+    "photos": ""
+  },
+  {
+    "ID": 4,
+    "name": "DT-01-E",
+    "type": "drenaxe",
+    "latitude": 43.03832306,
+    "longitude": -9.03188159,
+    "notes": "PE Monte Tourado",
+    "status": "",
+    "date_start": "",
+    "date_end": "",
+    "photos": ""
+  },
+  {
+    "ID": 5,
+    "name": "DT-01-S",
+    "type": "drenaxe",
+    "latitude": 43.03837704,
+    "longitude": -9.03207804,
+    "notes": "PE Monte Tourado",
+    "status": "",
+    "date_start": "",
+    "date_end": "",
+    "photos": ""
+  },
+  {
+    "ID": 6,
+    "name": "DT-02-E",
+    "type": "drenaxe",
+    "latitude": 43.04126097,
+    "longitude": -9.0222703,
+    "notes": "PE Monte Tourado",
+    "status": "",
+    "date_start": "",
+    "date_end": "",
+    "photos": ""
+  },
+  {
+    "ID": 7,
+    "name": "DT-02-S",
+    "type": "drenaxe",
+    "latitude": 43.04118892,
+    "longitude": -9.02231938,
+    "notes": "PE Monte Tourado",
+    "status": "",
+    "date_start": "",
+    "date_end": "",
+    "photos": ""
+  }
+]

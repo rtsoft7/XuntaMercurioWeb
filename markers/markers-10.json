@@ -1,0 +1,86 @@
+[
+    {
+        "ID": 1,
+        "name": "AE-01",
+        "type": "aero",
+        "latitude": 42.95139088,
+        "longitude": -9.06665230,
+        "notes": "Aeroxerador RUII-01",
+        "status": "",
+        "date_start": "2023-10-01T00:00:00Z",   
+        "date_end": "2023-10-31T23:59:59Z",
+        "photos": []
+    },
+    {
+        "ID": 2,
+        "name": "AE-02",
+        "type": "aero",
+        "latitude": 42.94342206,
+        "longitude": -9.06534442,
+        "notes": "Aeroxerador RUII-02",
+        "status": "",
+        "date_start": "2023-10-01T00:00:00Z",   
+        "date_end": "2023-10-31T23:59:59Z",
+        "photos": []
+    },
+    {
+        "ID": 3,
+        "name": "AE-03",
+        "type": "aero",
+        "latitude": 42.93427966,
+        "longitude": -9.05193935,
+        "notes": "Aeroxerador RUII-03",
+        "status": "",
+        "date_start": "2023-10-01T00:00:00Z",   
+        "date_end": "2023-10-31T23:59:59Z",
+        "photos": []
+    },
+    {
+        "ID": 4,
+        "name": "AE-04",
+        "type": "aero",
+        "latitude": 42.91864244,
+        "longitude": -9.06045397,
+        "notes": "Aeroxerador RUII-04",
+        "status": "",
+        "date_start": "2023-10-01T00:00:00Z",   
+        "date_end": "2023-10-31T23:59:59Z",
+        "photos": []
+    },
+    {
+        "ID": 5,
+        "name": "AE-05",
+        "type": "aero",
+        "latitude": 42.91926418,
+        "longitude": -9.07503523,
+        "notes": "Aeroxerador RUII-05",
+        "status": "",
+        "date_start": "2023-10-01T00:00:00Z",   
+        "date_end": "2023-10-31T23:59:59Z",
+        "photos": []
+    },
+    {
+        "ID": 6,
+        "name": "AE-06",
+        "type": "aero",
+        "latitude": 42.92519361,
+        "longitude": -9.08230895,
+        "notes": "Aeroxerador RUII-06",
+        "status": "",
+        "date_start": "2023-10-01T00:00:00Z",   
+        "date_end": "2023-10-31T23:59:59Z",
+        "photos": []
+    },
+    {
+        "ID": 7,
+        "name": "AE-07",
+        "type": "aero",
+        "latitude": 42.92701090,
+        "longitude": -9.08472544,
+        "notes": "Aeroxerador RUII-07",
+        "status": "",
+        "date_start": "2023-10-01T00:00:00Z",   
+        "date_end": "2023-10-31T23:59:59Z",
+        "photos": []
+    }
+]

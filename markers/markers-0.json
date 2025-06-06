@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 0,
+        "name": "m0",
+        "type": "marker",
+        "latitude": 42.88793,
+        "longitude": -8.52950,
+        "notes": "",
+        "status": "",
+        "date_start": "2023-10-01T00:00:00Z",   
+        "date_end": "2023-10-31T23:59:59Z",
+        "photos": []
+    },
+    {
+        "ID": 1,
+        "name": "m1",
+        "type": "marker",
+        "latitude": 42.88793,
+        "longitude": -9.52950,
+        "notes": "string",
+        "status": "",
+        "date_start": "2023-10-01T00:00:00Z",   
+        "date_end": "2023-10-31T23:59:59Z",
+        "photos": []
+    }
+]
